@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kn8-codes
-- 👀 I’m interested in =
-- 🌱 I’m currently learning =
-- 💞️ I’m looking to collaborate on =
+- 👀 I’m interested in = HTML CSS JS REACT AI INFOSEC
+- 🌱 I’m currently learning = HTML CSS REACT AI
+- 💞️ I’m looking to collaborate on = ANYTHING!!!
 - 📫 How to reach me = kn8.codes@pm.me
 
 <!---
